@@ -44,4 +44,5 @@ function wolvesEatSheep(arr) {
   }
   console.log(wolvesEatSheep(["sheep", "sheep", "sheep", "sheep", "sheep", "sheep","wolf"]))
 
-
+// P4 Tomorrow's code
+function 
